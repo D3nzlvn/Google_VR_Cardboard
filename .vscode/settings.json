@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FINAL_NA_TO.sln"
+    "dotnet.defaultSolution": "Google_VR_Cardboard.sln"
 }

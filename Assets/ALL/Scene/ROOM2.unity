@@ -8444,6 +8444,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7181727221723384644, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_Range
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7181727221723497990, guid: a4b988663d8abf6439a156417b0a4b4a,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8779,6 +8784,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7181727222066773536, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_Range
+      value: 5.03
+      objectReference: {fileID: 0}
     - target: {fileID: 7181727222066773542, guid: a4b988663d8abf6439a156417b0a4b4a,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8853,6 +8863,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7181727222119818048, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7181727222119818049, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.963
       objectReference: {fileID: 0}
     - target: {fileID: 7181727222119818054, guid: a4b988663d8abf6439a156417b0a4b4a,
         type: 3}
@@ -9589,10 +9609,20 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7181727222749869172, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.129
+      objectReference: {fileID: 0}
     - target: {fileID: 7181727222749869173, guid: a4b988663d8abf6439a156417b0a4b4a,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7181727222749869175, guid: a4b988663d8abf6439a156417b0a4b4a,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7181727222756204523, guid: a4b988663d8abf6439a156417b0a4b4a,
         type: 3}
@@ -13212,7 +13242,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1

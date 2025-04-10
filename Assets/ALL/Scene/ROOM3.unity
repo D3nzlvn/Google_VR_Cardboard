@@ -2364,6 +2364,16 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4293505184659401707, guid: 9a0cf4f92c2cbc743a29ab0a6a8e3cdb,
+        type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293505184659401707, guid: 9a0cf4f92c2cbc743a29ab0a6a8e3cdb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4293505184675570503, guid: 9a0cf4f92c2cbc743a29ab0a6a8e3cdb,
         type: 3}
       propertyPath: m_StaticEditorFlags

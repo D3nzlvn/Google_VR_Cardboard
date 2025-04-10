@@ -1816,6 +1816,16 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2074573542299471490, guid: e699911639f17574199b867bc4221dfc,
+        type: 3}
+      propertyPath: m_Range
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074573542934798665, guid: e699911639f17574199b867bc4221dfc,
+        type: 3}
+      propertyPath: m_Range
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 2077236255305422238, guid: e699911639f17574199b867bc4221dfc,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2086,6 +2096,11 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 8875901643041175796}
+    - target: {fileID: 2253164130484562598, guid: e699911639f17574199b867bc4221dfc,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2253164130497086069, guid: e699911639f17574199b867bc4221dfc,
         type: 3}
       propertyPath: Player
